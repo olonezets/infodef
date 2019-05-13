@@ -11,7 +11,7 @@ ________________________________________________________________________________
 | Linux| 40 | daeccbb91255ab916b3308ac75ccb44f | 706361f4829eafe5b535052a3cd68f373c82994f29957762b5870d79ef3f78b7  |
 | Windows| 50 |  52dfc845c68230b9061be4e3aa57c06d  |  2049c69aebd031e70b77b2565470e38748e387275d0551a6e7a4a1ca1767a7bb  |
 ___________________________________________________________________________________________________________________________________
-
+  <p align="center">вид программы:</p>
 ![Alt-текст](https://raw.githubusercontent.com/olonezets/infodef/master/img/01_cr.bmp "главное меню")
 ![Alt-текст](https://raw.githubusercontent.com/olonezets/infodef/master/img/02_cr.bmp "контактная информация")
 ![Alt-текст](https://raw.githubusercontent.com/olonezets/infodef/master/img/03_cr.bmp "Unity_3D меню разработки")
