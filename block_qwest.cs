@@ -16,11 +16,11 @@
         if (debugTggl == 1)
         {
             debugText[0].enabled = true;
-            debugText[0].text = "Дебаг мод: Число с нумерацией вопроса = " + wQ.ToString();
+            debugText[0].text = " " + wQ.ToString();
             debugText[1].enabled = true;
-            debugText[1].text = "Кликнутый ответ = " + clickedAnswer.ToString();
+            debugText[1].text = " " + clickedAnswer.ToString();
             debugText[2].enabled = true;
-            debugText[2].text = "Правильный ответ = " + trueint.ToString();
+            debugText[2].text = " " + trueint.ToString();
         }
 
         timeText.text = timeEq.ToString();
@@ -38,7 +38,7 @@
         }
         if (timeEq <= 0)
         {
-            timeText.text = "Время истекло";
+            timeText.text = " ";
             overTime();
         }
         if (timeEq <= 3)
@@ -49,8 +49,8 @@
         {
             RQ1();
         }
-        
-		else if (wQ == 25)
+        //...
+	else if (wQ == 25)
         {
             RQ25();
         }
